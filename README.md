@@ -14,4 +14,4 @@ This library is released under the GNU GPL v3 license, you can find the full tex
 
 ### How to use ###
 
-You can find more information on how to install and use this library in the [wiki](https://github.com/paglias/ubuntuone-php-client-library/wiki), there are also several *examples*.
+You can find more information on how to install and use this library in the [wiki](https://github.com/paglias/ubuntuone-php-client-library/wiki), there are also several **examples**.
