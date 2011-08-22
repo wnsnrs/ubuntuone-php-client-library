@@ -2,7 +2,7 @@ This is a library written in PHP to interact with Ubuntu One APIs that you can f
 
 ### License: ###
 
-This library is released under the GNU GPL v3 license, you can find the full text of the license in the LICENSE file.
+This library is released under the GNU LGPL v3 license, you can find the full text of the license in the LICENSE file.
 
 ### How to use ###
 
