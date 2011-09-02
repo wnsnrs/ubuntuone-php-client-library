@@ -11,4 +11,5 @@ You can use thi library in your project even if it is not open source.
 You can find more information on how to install and use this library in the [wiki](https://github.com/paglias/ubuntuone-php-client-library/wiki), there are also several **examples**.
 
 ### Changelog ###
+*  v0.1.1 Alpha Initial support for errors in u1_Base.php there are some new issues (number #5 and #6)
 *  v0.1 Initial release!
